@@ -15,7 +15,7 @@ This project requires a few dependencies and specific steps for proper execution
     * Navigate to the directory where you want to store the project.
     * Run the following command:
         ```bash
-        git clone [https://github.com/SimeonReece/Algo_Trading_sandbox.git](https://github.com/SimeonReece/Algo_Trading_sandbox.git)
+        git clone https://github.com/SimeonReece/Algo_Trading_sandbox.git
         ```
     * Navigate into the project directory:
         ```bash
