@@ -13,10 +13,10 @@ Here’s the edited version:
 ## Instructions
 
 1. Install yfinance:
-   ```bash pip install finance ```
+   ``` pip install finance ```
 
 3. Install backtracker:
-   ```bash pip install backtraker ```
+   ``` pip install backtraker ```
 
 4. Update pip:(only if outdated):```bash python.exe -m pip install --upgrade pip1```
 
