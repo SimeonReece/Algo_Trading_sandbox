@@ -1,4 +1,4 @@
-```markdown
+
 # Installation and Setup
 
 This project requires a few dependencies and specific steps for proper execution. Follow the instructions below:
@@ -55,4 +55,4 @@ This project requires a few dependencies and specific steps for proper execution
 * Ensure you are in the `Algo_Trading_sandbox` directory when running commands.
 * Using VS Code will provide a better development experience.
 * Running each python file individually is encouraged to understand the code and debug errors.
-```
+
