@@ -33,7 +33,7 @@ This project requires a few dependencies and specific steps for proper execution
         ```bash
         pip install backtrader
         ```
-    * Install `yfinance`:
+    * Install `trading view`:
         ```bash
         pip install tradingview-ta
         ```
