@@ -13,17 +13,12 @@ Here’s the edited version:
 ## Instructions
 
 1. Install yfinance:
-   ```bash
-  pip install yfinance
-   ```
+   ```bash pip install finance ```
 
-3. Install Faker:
-   ```bash
-   pip install faker
-   ```
+3. Install backtracker:
+   ```bash pip install backtraker ```
 
-4. Update pip:(only if outdated):
-'''python.exe -m pip install --upgrade pip'''
+4. Update pip:(only if outdated):```bash python.exe -m pip install --upgrade pip1```
 
 4. I suggest running each Python file individually for error checking and better understanding.
      4.a : you should install on desktop first then '''CD Algo_Trading_sandbox '''
