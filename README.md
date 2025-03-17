@@ -21,9 +21,6 @@ This project requires a few dependencies and specific steps for proper execution
         ```bash
         cd Algo_Trading_sandbox
         ```
-
-        pip install tradingview-ta
-      
 2.  **Install Dependencies:**
     * Install `yfinance`:
         ```bash
@@ -32,10 +29,6 @@ This project requires a few dependencies and specific steps for proper execution
     * Install `backtrader`:
         ```bash
         pip install backtrader
-        ```
-    * Install `trading view`:
-        ```bash
-        pip install tradingview-ta
         ```
     * **Update pip (if necessary):**
         ```bash
